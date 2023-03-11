@@ -1,6 +1,9 @@
 git init // demari
-git add .   // traki koulch 
+git add .   // tetraki koulch 
 git commit -m "coment"      // thathoum"
 
-git remote add origin https://github.com/bla2bla/temp-node.git  // thatou fi repo
+git remote add origin https://github.com/bla2bla/temp-node.git  // takhdem cnx m3a repo
 git push -u origin master     // upload f repo
+
+
+$ git remote set-url <remote_name> <remote_url>   // tbdel l url 
