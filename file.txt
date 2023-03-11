@@ -1,1 +1,6 @@
-waaaa zebi
+git init // demari
+git add .   // traki koulch 
+git commit -m "coment"      // thathoum"
+
+git remote add origin https://github.com/bla2bla/temp-node.git  // thatou fi repo
+git push -u origin master     // upload f repo
